@@ -1,0 +1,11 @@
+
+
+.product-item{
+    margin: 1rem 0;
+    padding: 1rem;
+}
+
+.product-item img{
+    max-width: 200px;
+    border-radius: 4px;
+}
